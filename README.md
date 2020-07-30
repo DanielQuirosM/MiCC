@@ -16,9 +16,8 @@ Desarrollar y desplegar un sitio web que permita a los usuarios de centros comer
 
 ### Objetivos específicos 
 
--  Realizar una encuesta que nos permita saber qué tanto interés tendría la comunidad en un aplicativo de este tipo.
 - Determinar qué tipo de servicios serán necesarios contratar para el correcto funcionamiento de la plataforma y que permita tener una estabilidad en cuanto a disponibilidad del servicio.
-- Desarrollo del sitio web.
+- Desarrollo de las diferentes secciones del sitio web.
 
 ### Mockups
 
